@@ -36,17 +36,25 @@ We are going to run a couple SQL queries and put the answers in the "Query Respo
 
 1.
   * How many rows were returned:
+  7
   * First name of the first user:
+  Mitsue Tollner
 
 2.
   * How many rows were returned:
+  2
   * What states do they live in:
+  MD and TX
 
 3.
   * How many rows were returned:
+  6
   * What's the last email on the list:
+  'nichelle_meteer@meteer.com'
 
 
   ## Summary
 
   Think about how this data is laid out. Feel free to look in the initialize.sql file to see the raw data. Do you think it would be easier or harder to search through this data manually or using SQL? What about when the dataset gets larger?
+
+  I think it's very simple to use SQL to search through data on a small scale...However, I do see it being problematic when you have MULTIPLE database's and multiple tables with in each database...
